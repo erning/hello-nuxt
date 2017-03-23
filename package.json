@@ -1,0 +1,10 @@
+{
+  "name": "hello-nuxt",
+  "scripts": {
+    "dev": "nuxt"
+  },
+  "dependencies": {
+    "element-ui": "^1.2.4",
+    "nuxt": "^0.9.9"
+  }
+}
