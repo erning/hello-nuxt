@@ -1,9 +1,6 @@
 module.exports = {
   build: {
     analyze: false,
-    babel: {
-      presets: ['es2015', 'stage-2']
-    },
     vendor: ['element-ui']
     // filenames: {
     //   css: 'style.[hash:6].css',

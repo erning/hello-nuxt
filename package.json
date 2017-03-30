@@ -4,7 +4,7 @@
     "dev": "nuxt"
   },
   "dependencies": {
-    "element-ui": "^1.2.4",
-    "nuxt": "^0.9.9"
+    "element-ui": "latest",
+    "nuxt": "latest"
   }
 }
